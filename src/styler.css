@@ -1,0 +1,257 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+
+}
+
+nav {
+    display: flex;
+    color: white;
+    gap: 20px;
+}
+
+body {
+    background: linear-gradient(100deg, #984D38 -30.3%, #181E41 58.12%);
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+h1 {
+    color: white;
+}
+
+header span {
+    color: #671AE4;
+}
+
+.parte {
+    display: flex;
+    margin-left: 130px;
+    gap: 30px;
+}
+
+.tprincipal {
+    display: flex;
+    margin-left: 100px;
+    width: 900px;
+}
+
+.section1-text {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.boton {
+    width: 90px;
+    height: 40px;
+    background: linear-gradient(214.02deg, #B75CFF 6.04%, #671AE4 92.95%);
+    margin-left: 110px;
+    border-radius: 20%;
+    margin: 20px 0 0 0;
+}
+
+.theboton {
+    padding: 20px;
+}
+
+.li1 {
+    padding: 35px;
+    color: white;
+    display: flex;
+    gap: 100px;
+    font-size: 33px;
+}
+
+h5 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.texto {
+    display: flex;
+    justify-content: center;
+    color: dimgray;
+}
+
+.menu {
+    padding: 40px;
+    width: 300px;
+    margin-left: 60px;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+    margin-left: 140px;
+}
+
+.texto2 {
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 140px;
+    color: dimgray;
+}
+
+.boton2 {
+    display: flex;
+    justify-content: center;
+    width: 90px;
+    height: 40px;
+    border-radius: 20%;
+    background: linear-gradient(214.02deg, #B75CFF 6.04%, #671AE4 92.95%);
+    margin-left: 500px;
+    padding: 10px;
+}
+
+.section2 {
+    display: flex;
+}
+
+.section2 h4 {
+    text-align: center;
+}
+
+.elh3 {
+    padding: 150px;
+}
+
+.elh4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.foto {
+    width: 300px;
+    display: flex;
+
+}
+
+.section1 {
+    padding: 30px;
+}
+
+.img-section1 {
+    margin-left: 300px;
+}
+
+.Proyectos {
+    padding: 120px;
+}
+
+.main2 {
+    width: 600px;
+}
+
+.proy-cartas1 {
+    width: 480px;
+    height: 450px;
+    border-radius: 10px;
+    gap: 30px;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.imagen {
+    width: 280px;
+    height: 300px;
+    border-radius: 10px 0px 0px 0px;
+}
+
+.boton3 {
+    width: 120px;
+    height: 40px;
+    gap: 10px;
+    border-radius: 10px 0px 0px 0px;
+    display: flex;
+    margin-left: 80px;
+    background: linear-gradient(214.02deg, #B75CFF 6.04%, #671AE4 92.95%);
+    justify-content: center;
+    align-items: center;
+}
+
+.cartas-proyectos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+    gap: 40px;
+}
+
+.proy-cartas2 {
+    width: 480px;
+    height: 450px;
+    border-radius: 20px;
+    gap: 40px;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.proy-cartas3 {
+    width: 480px;
+    height: 450px;
+    border-radius: 10px;
+    gap: 30px;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.proy-cartas4 {
+    width: 480px;
+    height: 450px;
+    border-radius: 10px;
+    gap: 30px;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+footer {
+    display: flex;
+    gap: 120px;
+    justify-content: center;
+    padding: 0 0 60px 0;
+}
+
+.columna1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 15px;
+}
+
+.columna2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 15px;
+}
+
+.columna3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 15px;
+}
+
+.texto3 {
+    color: rgba(255, 255, 255, 0.5);
+
+}
